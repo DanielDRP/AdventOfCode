@@ -49,4 +49,4 @@ arr_file.each do |line|
 
 end
 
-puts suma
+puts "Resultado: #{suma}"
